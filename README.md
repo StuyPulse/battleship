@@ -1,4 +1,4 @@
 battleship
 ==========
 
-Training propject for 694 newbies.
+Training project for 694 newbies.
